@@ -11,4 +11,4 @@
 **Compilation:**   make  
 **Clean files:**   make clean
 
-**Launching:**     ./a4
+**Launching:**     ./a2
